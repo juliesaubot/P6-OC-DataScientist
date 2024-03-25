@@ -52,13 +52,14 @@ Afin d’extraire les features image, il sera nécessaire de mettre en œuvre :
 Je dois réaliser une classification supervisée à partir des images puis mettre en place une data augmentation afin d’optimiser le modèle.
 Un exemple de mise en œuvre de classification supervisée sur un autre dataset est mis à disposition est à utiliser en point de départ pour gagner du temps.
 
-#### Tester
+#### Tester une API 
 L'entreprise souhaite élargir sa gamme de produits, en particulier dans l’épicerie fine. 
 Je dois donc tester la collecte de produits à base de “champagne” via l’API (RapidAPI).
 Je dois fournir une extraction des 10 premiers produits dans un fichier “.csv”, contenant pour chaque produit les données suivantes : foodId, label, category, foodContentsLabel, image.
 
 
 ## Compétences évaluées
+
 - Utiliser des techniques d’augmentation des données
 - Prétraiter des données texte pour obtenir un jeu de données exploitable
 - Représenter graphiquement des données à grandes dimensions
