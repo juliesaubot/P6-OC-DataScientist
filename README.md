@@ -9,9 +9,9 @@ Sur la place de marché, des vendeurs proposent des articles à des acheteurs en
 
 Aujourd’hui, l’attribution de la catégorie d’un article est faite manuellement par les vendeurs et le volume des articles est petit. 
 
-Pour rendre l’expérience utilisateur des vendeurs (faciliter la mise en ligne de nouveaux articles) et des acheteurs (faciliter la recherche de produits) la plus fluide possible, et dans l'optique d'un passage à l'échelle, il devient nécessaire d'automatiser cette tâche
+Pour rendre l’expérience utilisateur des vendeurs (faciliter la mise en ligne de nouveaux articles) et des acheteurs (faciliter la recherche de produits) la plus fluide possible, et dans l'optique d'un passage à l'échelle, il devient nécessaire d'automatiser cette tâche.
 
-Etant Data Scientist dans l'entreprise, mon rôle est d'étudier la faisabilité d'un moteur de classification des articles en différentes catégories, avec un niveau de précision suffisant.
+En tant que Data Scientist dans l'entreprise, mon rôle est d'étudier la faisabilité d'un moteur de classification des articles en différentes catégories, avec un niveau de précision suffisant.
 
 
 ### Données à disposition 
